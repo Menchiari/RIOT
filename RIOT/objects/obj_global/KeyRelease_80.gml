@@ -1,2 +1,5 @@
 /// @description police win
-global.rebels_defeat=true;
+if global.debug==true
+{
+	global.rebels_defeat=true;
+}

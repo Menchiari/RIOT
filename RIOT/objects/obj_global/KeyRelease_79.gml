@@ -1,2 +1,5 @@
 /// @description police lose
-global.police_defeat=true;
+if global.debug==true
+{ 
+	global.police_defeat=true;
+}

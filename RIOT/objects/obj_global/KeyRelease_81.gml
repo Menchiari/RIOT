@@ -1,4 +1,6 @@
 /// @description toggle all unlocked
+if global.debug==true
+{
 ini_open("save.ini");
 if keyboard_check(vk_control)
 {
@@ -107,3 +109,4 @@ else
 	ini_write_real("MAPS","koreap",1);
 }
 ini_close();
+}

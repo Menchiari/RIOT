@@ -1,2 +1,2 @@
 ///@description Debug mode
-global.debug=!global.debug;
+if keyboard_check(vk_control) {global.debug=!global.debug;}
