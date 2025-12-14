@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_background_random_siren5",
+  "audioGroupId":{
+    "name":"Backgrounds",
+    "path":"audiogroups/Backgrounds",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":14.505,
+  "exportDir":"",
+  "name":"snd_background_random_siren5",
+  "parent":{
+    "name":"Backgrounds",
+    "path":"folders/Sounds/Backgrounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_background_random_siren5",
+  "volume":1.0,
+}

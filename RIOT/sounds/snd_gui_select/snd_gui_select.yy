@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_gui_select",
+  "audioGroupId":{
+    "name":"RIOTS",
+    "path":"audiogroups/RIOTS",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.266224,
+  "exportDir":"",
+  "name":"snd_gui_select",
+  "parent":{
+    "name":"MenuGUI",
+    "path":"folders/Sounds/MenuGUI.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_gui_select",
+  "volume":1.0,
+}

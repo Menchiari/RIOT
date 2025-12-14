@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_sfx_damage_01",
+  "audioGroupId":{
+    "name":"RIOTS",
+    "path":"audiogroups/RIOTS",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.415612,
+  "exportDir":"",
+  "name":"snd_sfx_damage_01",
+  "parent":{
+    "name":"damage",
+    "path":"folders/Sounds/SFX/damage.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_sfx_damage_01",
+  "volume":1.0,
+}

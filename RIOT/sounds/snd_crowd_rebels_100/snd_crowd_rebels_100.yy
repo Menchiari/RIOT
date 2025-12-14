@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_crowd_rebels_100",
+  "audioGroupId":{
+    "name":"Backgrounds",
+    "path":"audiogroups/Backgrounds",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":117.755,
+  "exportDir":"",
+  "name":"snd_crowd_rebels_100",
+  "parent":{
+    "name":"Rebels",
+    "path":"folders/Sounds/Rebels.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_crowd_rebels_100",
+  "volume":0.7,
+}

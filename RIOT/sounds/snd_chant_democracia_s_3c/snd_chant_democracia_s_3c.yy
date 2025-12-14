@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_chant_democracia_s_3c",
+  "audioGroupId":{
+    "name":"Chants",
+    "path":"audiogroups/Chants",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":12.317292,
+  "exportDir":"",
+  "name":"snd_chant_democracia_s_3c",
+  "parent":{
+    "name":"Rebels",
+    "path":"folders/Sounds/Rebels.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_chant_democracia_s_3c",
+  "volume":1.0,
+}

@@ -1,0 +1,11 @@
+depth=global.depth_guim3;
+sprite=spr_menu_star;
+target_room=rm_menu;
+target_night=global.night;
+active=true;
+color=c_white;
+color_sel=c_ltgray;
+color_desel=color;
+alpha_sel=1;
+alpha_desel=0;
+alpha=0;

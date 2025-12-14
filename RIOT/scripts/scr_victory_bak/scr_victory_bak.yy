@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_victory_bak",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_victory_bak",
+  "parent":{
+    "name":"_bak",
+    "path":"folders/Scripts/_bak.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

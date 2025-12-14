@@ -1,0 +1,9 @@
+nextroom=rm_tahrir4;
+music=snd_music_tahrir4;
+sound_fx=snd_sfx_tahrir4;
+global.night=false;
+audio_stop_all();
+audio_play_sound(sound_fx,100,false);
+audio_play_sound(music,100,false);
+audio_sound_gain(sound_fx,global.audio_cinematics,0);
+audio_sound_gain(music,global.audio_music,0);

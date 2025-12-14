@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_chant_nopaura_s_5c",
+  "audioGroupId":{
+    "name":"Chants",
+    "path":"audiogroups/Chants",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.575229,
+  "exportDir":"",
+  "name":"snd_chant_nopaura_s_5c",
+  "parent":{
+    "name":"Rebels",
+    "path":"folders/Sounds/Rebels.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_chant_nopaura_s_5c",
+  "volume":1.0,
+}

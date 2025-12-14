@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_chant_greece2_c_b",
+  "audioGroupId":{
+    "name":"Chants",
+    "path":"audiogroups/Chants",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":6.845167,
+  "exportDir":"",
+  "name":"snd_chant_greece2_c_b",
+  "parent":{
+    "name":"Rebels",
+    "path":"folders/Sounds/Rebels.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_chant_greece2_c_b",
+  "volume":1.0,
+}

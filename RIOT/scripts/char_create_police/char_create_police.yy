@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"char_create_police",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"char_create_police",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+scr_costumes_police();

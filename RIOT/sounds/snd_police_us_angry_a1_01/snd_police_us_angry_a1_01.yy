@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_police_us_angry_a1_01",
+  "audioGroupId":{
+    "name":"Police",
+    "path":"audiogroups/Police",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.5797,
+  "exportDir":"",
+  "name":"snd_police_us_angry_a1_01",
+  "parent":{
+    "name":"Police",
+    "path":"folders/Sounds/Police.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_police_us_angry_a1_01",
+  "volume":1.0,
+}

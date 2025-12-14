@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_editor_balancing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_editor_balancing",
+  "parent":{
+    "name":"Editor",
+    "path":"folders/Editor.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

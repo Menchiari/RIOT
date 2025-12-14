@@ -1,0 +1,2 @@
+draw_sprite_ext(sprite_index,image_index,x+draw_x,y+1,image_xscale,image_yscale/2,1,c_black,global.shadow_density*alpha);
+draw_sprite_ext(sprite_index,image_index,x+draw_x,y+draw_y,image_xscale,image_yscale,image_angle+rotation_result,bomb_color,alpha);

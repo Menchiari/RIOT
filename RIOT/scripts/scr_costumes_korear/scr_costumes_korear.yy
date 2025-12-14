@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_costumes_korear",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_costumes_korear",
+  "parent":{
+    "name":"Costumes",
+    "path":"folders/Scripts/Costumes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

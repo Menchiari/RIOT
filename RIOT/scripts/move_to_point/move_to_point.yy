@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"move_to_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"move_to_point",
+  "parent":{
+    "name":"gamemaker",
+    "path":"folders/Scripts/gamemaker.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

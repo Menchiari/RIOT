@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"char_step_wall",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"char_step_wall",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

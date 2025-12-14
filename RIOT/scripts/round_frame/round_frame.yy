@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"round_frame",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"round_frame",
+  "parent":{
+    "name":"gamemaker",
+    "path":"folders/Scripts/gamemaker.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

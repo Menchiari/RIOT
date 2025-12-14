@@ -1,0 +1,9 @@
+nextroom=rm_notav3;
+global.night=true;
+audio_stop_all();
+audio_play_sound(snd_sfx_notav3,100,false);
+audio_play_sound(snd_sfx_notav3,100,false);
+audio_play_sound(snd_music_notav3,100,false);
+audio_play_sound(snd_music_notav3,100,false);
+audio_sound_gain(snd_sfx_notav3,global.audio_cinematics,0);
+audio_sound_gain(snd_music_notav3,global.audio_music,0);

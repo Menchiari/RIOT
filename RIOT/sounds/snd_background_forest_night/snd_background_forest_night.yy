@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_background_forest_night",
+  "audioGroupId":{
+    "name":"Backgrounds_nature",
+    "path":"audiogroups/Backgrounds_nature",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":26.755,
+  "exportDir":"",
+  "name":"snd_background_forest_night",
+  "parent":{
+    "name":"Backgrounds",
+    "path":"folders/Sounds/Backgrounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_background_forest_night",
+  "volume":0.48,
+}

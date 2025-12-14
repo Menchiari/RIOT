@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_sfx_shot_raudi_building_09",
+  "audioGroupId":{
+    "name":"RIOTS",
+    "path":"audiogroups/RIOTS",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.009082,
+  "exportDir":"",
+  "name":"snd_sfx_shot_raudi_building_09",
+  "parent":{
+    "name":"shot",
+    "path":"folders/Sounds/SFX/shot.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_sfx_shot_raudi_building_09",
+  "volume":1.0,
+}

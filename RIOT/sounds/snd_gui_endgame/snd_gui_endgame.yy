@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_gui_endgame",
+  "audioGroupId":{
+    "name":"RIOTS",
+    "path":"audiogroups/RIOTS",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":40.005,
+  "exportDir":"",
+  "name":"snd_gui_endgame",
+  "parent":{
+    "name":"MenuGUI",
+    "path":"folders/Sounds/MenuGUI.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_gui_endgame",
+  "volume":1.0,
+}

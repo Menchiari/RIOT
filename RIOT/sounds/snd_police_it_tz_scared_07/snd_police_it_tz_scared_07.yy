@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_police_it_tz_scared_07",
+  "audioGroupId":{
+    "name":"Police",
+    "path":"audiogroups/Police",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.592075,
+  "exportDir":"",
+  "name":"snd_police_it_tz_scared_07",
+  "parent":{
+    "name":"Police",
+    "path":"folders/Sounds/Police.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_police_it_tz_scared_07",
+  "volume":1.0,
+}

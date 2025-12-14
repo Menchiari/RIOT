@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_background_helicopter1",
+  "audioGroupId":{
+    "name":"Backgrounds",
+    "path":"audiogroups/Backgrounds",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":32.005,
+  "exportDir":"",
+  "name":"snd_background_helicopter1",
+  "parent":{
+    "name":"Backgrounds",
+    "path":"folders/Sounds/Backgrounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_background_helicopter1",
+  "volume":0.75,
+}

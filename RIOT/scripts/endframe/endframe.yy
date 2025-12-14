@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"endframe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"endframe",
+  "parent":{
+    "name":"gamemaker",
+    "path":"folders/Scripts/gamemaker.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

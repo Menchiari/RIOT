@@ -1,0 +1,29 @@
+/// @description rock suonds
+switch(material)
+{
+	case 0://bottle
+		rock_sound=choose(snd_sfx_debris_bottle_01,snd_sfx_debris_bottle_02,snd_sfx_debris_bottle_03,snd_sfx_debris_bottle_04);
+	break;
+	case 1://bricks
+		rock_sound=choose(snd_sfx_debris_brick_01,snd_sfx_debris_brick_02,snd_sfx_debris_brick_03,snd_sfx_debris_brick_04,snd_sfx_debris_brick_05,snd_sfx_debris_brick_06,snd_sfx_debris_brick_07,snd_sfx_debris_brick_08,snd_sfx_debris_brick_09,snd_sfx_debris_brick_10,snd_sfx_debris_brick_11,snd_sfx_debris_brick_12,snd_sfx_debris_brick_13,snd_sfx_debris_brick_14,snd_sfx_debris_brick_15,snd_sfx_debris_brick_16,snd_sfx_debris_brick_17,snd_sfx_debris_brick_18,snd_sfx_debris_brick_19,snd_sfx_debris_brick_20,snd_sfx_debris_brick_21,snd_sfx_debris_brick_22,snd_sfx_debris_brick_23,snd_sfx_debris_brick_24,snd_sfx_debris_brick_25,snd_sfx_debris_brick_26,snd_sfx_debris_brick_27);
+	break;
+	case 2://glass
+		rock_sound=choose(snd_sfx_debris_glass_01,snd_sfx_debris_glass_02,snd_sfx_debris_glass_03,snd_sfx_debris_glass_04,snd_sfx_debris_glass_05,snd_sfx_debris_glass_06,snd_sfx_debris_glass_07);
+	break;
+	case 3://metal
+		rock_sound=choose(snd_sfx_debris_metal_01,snd_sfx_debris_metal_02,snd_sfx_debris_metal_03,snd_sfx_debris_metal_04,snd_sfx_debris_metal_05)
+		rock_volume=rock_volume/4;
+	break;
+	case 4://plastic
+		rock_sound=choose(snd_sfx_debris_plastic_01,snd_sfx_debris_plastic_02,snd_sfx_debris_plastic_03,snd_sfx_debris_plastic_04,snd_sfx_debris_plastic_05,snd_sfx_debris_plastic_06,snd_sfx_debris_plastic_07,snd_sfx_debris_plastic_08,snd_sfx_debris_plastic_09,snd_sfx_debris_plastic_10,snd_sfx_debris_plastic_11);
+	break;
+	case 5://rock
+		rock_sound=choose(snd_sfx_debris_rock_01,snd_sfx_debris_rock_02,snd_sfx_debris_rock_03,snd_sfx_debris_rock_04,snd_sfx_debris_rock_05,snd_sfx_debris_rock_06);
+	break;
+	case 6://wood
+		rock_sound=choose(snd_sfx_debris_wood_01,snd_sfx_debris_wood_02,snd_sfx_debris_wood_03,snd_sfx_debris_wood_04,snd_sfx_debris_wood_05,snd_sfx_debris_wood_06,snd_sfx_debris_wood_07,snd_sfx_debris_wood_08,snd_sfx_debris_wood_09,snd_sfx_debris_wood_10,snd_sfx_debris_wood_11,snd_sfx_debris_wood_12,snd_sfx_debris_wood_13,snd_sfx_debris_wood_14,snd_sfx_debris_wood_15,snd_sfx_debris_wood_16,snd_sfx_debris_wood_17,snd_sfx_debris_wood_18,snd_sfx_debris_wood_19,snd_sfx_debris_wood_20);
+	break;
+	default:
+	break;
+}
+audio_play_sound_alt(rock_sound,10,false,rock_volume,random_range(.7,1.3));

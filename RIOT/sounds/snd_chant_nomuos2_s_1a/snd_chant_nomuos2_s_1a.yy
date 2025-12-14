@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_chant_nomuos2_s_1a",
+  "audioGroupId":{
+    "name":"Chants",
+    "path":"audiogroups/Chants",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":7.779417,
+  "exportDir":"",
+  "name":"snd_chant_nomuos2_s_1a",
+  "parent":{
+    "name":"Rebels",
+    "path":"folders/Sounds/Rebels.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_chant_nomuos2_s_1a",
+  "volume":0.36,
+}

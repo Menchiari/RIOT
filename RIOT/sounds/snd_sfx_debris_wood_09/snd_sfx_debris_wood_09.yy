@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_sfx_debris_wood_09",
+  "audioGroupId":{
+    "name":"RIOTS",
+    "path":"audiogroups/RIOTS",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":1,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.997653,
+  "exportDir":"",
+  "name":"snd_sfx_debris_wood_09",
+  "parent":{
+    "name":"debris",
+    "path":"folders/Sounds/SFX/debris.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_sfx_debris_wood_09",
+  "volume":1.0,
+}

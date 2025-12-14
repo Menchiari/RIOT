@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_police_gr_18",
+  "audioGroupId":{
+    "name":"Police",
+    "path":"audiogroups/Police",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.042551,
+  "exportDir":"",
+  "name":"snd_police_gr_18",
+  "parent":{
+    "name":"Police",
+    "path":"folders/Sounds/Police.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_police_gr_18",
+  "volume":1.0,
+}
