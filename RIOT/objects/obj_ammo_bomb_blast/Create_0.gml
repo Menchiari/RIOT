@@ -1,7 +1,8 @@
 /// @description 
 sound=snd_sfx_shot_gunshot;
 volume=global.audio_bomb;
-audio_play_sound_alt(sound,10,false,volume,random_range(.1,.4));
+pitch_size=random_range(.1,.4);
+audio_play_sound_alt(sound,10,false,volume,pitch_size);
 
 dir=1;
 density=irandom_range(1,3);
@@ -25,3 +26,6 @@ blast_scalex=random_range(.75,3);
 blast_scaley=random_range(.75,3);
 
 image_index=irandom_range(1,3);
+
+//bomb blast
+alarm[0]=3;

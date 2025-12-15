@@ -10,3 +10,13 @@ points_journalist=global.cost_journalist;
 points_slow=global.cost_slow;
 points_fast=global.cost_fast;
 points_ranged=global.cost_ranged;
+
+if global.spectator==true {instance_create_depth(x,y,0,obj_spectator);}
+if instance_exists(obj_gui_controller)
+{
+	var _fx=fx_create("_filter_screenshake");
+	fx_set_parameter(_fx,"g_Magnitude",1);
+	fx_set_parameter(_fx,"g_ShakeSpeed",0.01);
+	layer_create(global.depth_fx,"fx");
+	layer_set_fx("fx",_fx);
+}

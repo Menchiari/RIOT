@@ -1,14 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ammo_bomb_blast",
+  "%Name":"obj_screenshake",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ammo_bomb_blast",
+  "name":"obj_screenshake",
   "overriddenProperties":[],
   "parent":{
     "name":"Other",
@@ -19,7 +17,7 @@
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
-  "physicsGroup":0,
+  "physicsGroup":1,
   "physicsKinematic":false,
   "physicsLinearDamping":0.1,
   "physicsObject":false,
@@ -32,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_fx_smoke_impact",
-    "path":"sprites/spr_fx_smoke_impact/spr_fx_smoke_impact.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

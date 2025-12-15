@@ -76,4 +76,6 @@ if chance>chance_success
 {
 	audio_play_sound_alt(gunshot,50,0,global.audio_shots,random_range(.9,1.1));
 	audio_play_sound_alt(gunshot_echo,50,0,global.audio_shots,random_range(.9,1.1));
+	var shake=instance_create_depth(0, 0, 0, obj_screenshake);
+	shake.shake_amount = 2;
 }

@@ -1,5 +1,5 @@
 ///@description Ballistic Unit
-if global.debug==true
+if global.cheats==true
 {
 var randomness=random_range(-.05,.05);
 if mouse_x>room_width/2

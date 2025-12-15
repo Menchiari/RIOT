@@ -1,5 +1,5 @@
 /// @description toggle all unlocked
-if global.debug==true
+if global.cheats==true
 {
 ini_open("save.ini");
 if keyboard_check(vk_control)

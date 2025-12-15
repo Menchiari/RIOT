@@ -10,7 +10,7 @@
   "compression":1,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.113571,
+  "duration":3.1085715,
   "exportDir":"",
   "name":"snd_sfx_shot_raudi_building_03",
   "parent":{

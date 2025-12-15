@@ -162,6 +162,7 @@
     {"name":"obj_police_crowd","order":13,"path":"objects/obj_police_crowd/obj_police_crowd.yy",},
     {"name":"obj_police_parent","order":9,"path":"objects/obj_police_parent/obj_police_parent.yy",},
     {"name":"obj_police","order":11,"path":"objects/obj_police/obj_police.yy",},
+    {"name":"obj_screenshake","order":20,"path":"objects/obj_screenshake/obj_screenshake.yy",},
     {"name":"obj_sfx_police","order":1,"path":"objects/obj_sfx_police/obj_sfx_police.yy",},
     {"name":"obj_sfx_rebels","order":3,"path":"objects/obj_sfx_rebels/obj_sfx_rebels.yy",},
     {"name":"obj_shot","order":19,"path":"objects/obj_shot/obj_shot.yy",},

@@ -27,4 +27,7 @@ else
 	{gunshot_echo=choose(snd_sfx_shot_raudi_building_01,snd_sfx_shot_raudi_building_02,snd_sfx_shot_raudi_building_03,snd_sfx_shot_raudi_building_04,snd_sfx_shot_raudi_building_05,snd_sfx_shot_raudi_building_06,snd_sfx_shot_raudi_building_07,snd_sfx_shot_raudi_building_08,snd_sfx_shot_raudi_building_09);}
 	audio_play_sound_alt(gunshot,50,0,global.audio_shots,random_range(.9,1.1));
 	audio_play_sound_alt(gunshot_echo,50,0,global.audio_shots,random_range(.9,1.1));
+	
+	var shake=instance_create_depth(0, 0, 0, obj_screenshake);
+	shake.shake_amount = 3;
 }

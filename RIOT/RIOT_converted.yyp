@@ -246,6 +246,7 @@
     {"id":{"name":"obj_police_crowd","path":"objects/obj_police_crowd/obj_police_crowd.yy",},},
     {"id":{"name":"obj_police_parent","path":"objects/obj_police_parent/obj_police_parent.yy",},},
     {"id":{"name":"obj_police","path":"objects/obj_police/obj_police.yy",},},
+    {"id":{"name":"obj_screenshake","path":"objects/obj_screenshake/obj_screenshake.yy",},},
     {"id":{"name":"obj_sfx_police","path":"objects/obj_sfx_police/obj_sfx_police.yy",},},
     {"id":{"name":"obj_sfx_rebels","path":"objects/obj_sfx_rebels/obj_sfx_rebels.yy",},},
     {"id":{"name":"obj_shot","path":"objects/obj_shot/obj_shot.yy",},},

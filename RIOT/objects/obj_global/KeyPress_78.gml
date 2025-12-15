@@ -1,6 +1,6 @@
-///@description Night toggle
-if global.debug==true
+///@description Night toggle or Next room
+if global.cheats==true
 {
 	if keyboard_check(vk_control) {room_goto_next()}
-	else {global.night=!global.night;}
 }
+if !keyboard_check(vk_control) {global.night=!global.night;}

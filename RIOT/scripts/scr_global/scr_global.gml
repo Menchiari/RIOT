@@ -28,6 +28,8 @@ function scr_global() {
 	global.depth_fg=-4000;
 	global.depth_fgm2=-4200;
 	global.depth_fgm3=-4300;
+	
+	global.depth_fx=-4500;
 
 	global.depth_gui=-5000;
 	global.depth_guim2=-5200;
@@ -75,6 +77,6 @@ function scr_global() {
 
 	//debug
 	global.debug=false;
-
-
+	global.spectator=false;
+	global.cheats=false;
 }
