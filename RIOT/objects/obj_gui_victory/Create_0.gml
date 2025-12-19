@@ -257,8 +257,8 @@ if instance_exists(obj_camera_global)
 		case rm_tahrir3:		scr_victory_achievements("tahrir3");		break;
 		case rm_tahrir4:		scr_victory_achievements("tahrir4");		break;
 		case rm_tahrir5:		scr_victory_achievements("tahrir5");		break;
-		case rm_notav_extra1:	scr_victory_achievements("notav_extra1");	break;
-		case rm_notav_extra2:	scr_victory_achievements("notav_extra2");	break;
+		case rm_notav_extra1:	scr_victory_achievements("extra1");			break;
+		case rm_notav_extra2:	scr_victory_achievements("extra2");			break;
 		case rm_occupy:			scr_victory_achievements("occupy");			break;
 		case rm_ukraine:		scr_victory_achievements("ukraine");		break;
 		case rm_taksim:			scr_victory_achievements("taksim");			break;

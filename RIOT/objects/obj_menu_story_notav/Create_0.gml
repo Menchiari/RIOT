@@ -140,18 +140,18 @@ var xre2=122;
 var xpe1=199;
 var xpe2=240;
 
-if ini_read_real("ACHIEVEMENTS","notavextra1r_ach1",0)==1 {instance_create(x+xre1,y+y1,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra1r_ach2",0)==1 {instance_create(x+xre1,y+y2,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra1r_ach3",0)==1 {instance_create(x+xre1,y+y3,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra1p_ach1",0)==1 {instance_create(x+xpe1,y+y1,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra1p_ach2",0)==1 {instance_create(x+xpe1,y+y2,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra1p_ach3",0)==1 {instance_create(x+xpe1,y+y3,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra2r_ach1",0)==1 {instance_create(x+xre2,y+y1,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra2r_ach2",0)==1 {instance_create(x+xre2,y+y2,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra2r_ach3",0)==1 {instance_create(x+xre2,y+y3,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra2p_ach1",0)==1 {instance_create(x+xpe2,y+y1,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra2p_ach2",0)==1 {instance_create(x+xpe2,y+y2,obj_menu_star_sml);}
-if ini_read_real("ACHIEVEMENTS","notavextra2p_ach3",0)==1 {instance_create(x+xpe2,y+y3,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra1r_ach1",0)==1 {instance_create(x+xre1,y+y1,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra1r_ach2",0)==1 {instance_create(x+xre1,y+y2,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra1r_ach3",0)==1 {instance_create(x+xre1,y+y3,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra1p_ach1",0)==1 {instance_create(x+xpe1,y+y1,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra1p_ach2",0)==1 {instance_create(x+xpe1,y+y2,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra1p_ach3",0)==1 {instance_create(x+xpe1,y+y3,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra2r_ach1",0)==1 {instance_create(x+xre2,y+y1,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra2r_ach2",0)==1 {instance_create(x+xre2,y+y2,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra2r_ach3",0)==1 {instance_create(x+xre2,y+y3,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra2p_ach1",0)==1 {instance_create(x+xpe2,y+y1,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra2p_ach2",0)==1 {instance_create(x+xpe2,y+y2,obj_menu_star_sml);}
+if ini_read_real("ACHIEVEMENTS","extra2p_ach3",0)==1 {instance_create(x+xpe2,y+y3,obj_menu_star_sml);}
 
 ini_close();
 

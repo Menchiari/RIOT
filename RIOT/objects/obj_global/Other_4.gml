@@ -20,3 +20,12 @@ if instance_exists(obj_gui_controller)
 	layer_create(global.depth_fx,"fx");
 	layer_set_fx("fx",_fx);
 }
+
+//Pixel Perfect
+if (view_enabled && view_visible[0]) {
+	var cam = view_camera[0];
+	var ww = camera_get_view_width(cam);
+	var hh = camera_get_view_height(cam);
+	surface_resize(application_surface, ww, hh);
+	show_debug_message("Screen resize at "+string(ww)+"; "+string(hh));
+}
