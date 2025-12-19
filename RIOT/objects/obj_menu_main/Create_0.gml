@@ -3,6 +3,7 @@ instance_create(x,y,obj_menu_main_story);
 instance_create(x,y,obj_menu_main_versus);
 instance_create(x,y,obj_menu_main_tutorial);
 instance_create(x,y,obj_menu_main_music);
+instance_create(x,y,obj_menu_main_spectator);
 instance_create(x,y,obj_menu_transition);
 
 ini_open("save.ini")

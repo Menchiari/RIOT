@@ -7,3 +7,5 @@ color=c_white;
 color_sel=c_ltgray;
 color_desel=color;
 alpha=1;
+
+if global.spectator==true {alpha=0;}
